@@ -28,6 +28,16 @@ Spring MVC, Java, Spring Security, SAML, Active Directory, ADFS, Maven, MongoDB,
 <img src="https://user-images.githubusercontent.com/32632834/42432422-4f1ab5b0-82ff-11e8-8e8b-a4dbd0aaa696.png" width="700" height="350">
 
 ## User Interfaces
-![image](https://user-images.githubusercontent.com/32632834/42432188-36eee1ec-82fe-11e8-871a-a02c8993217d.png)
+<img src="https://user-images.githubusercontent.com/32632834/42432470-897f48f6-82ff-11e8-969e-becd7e4ca56f.png" width="700" height="350">
+<img src="https://user-images.githubusercontent.com/32632834/42432470-897f48f6-82ff-11e8-969e-becd7e4ca56f.png" width="700" height="350">
+<img src="https://user-images.githubusercontent.com/32632834/42432490-a278a00a-82ff-11e8-917a-1a1f33bc5197.png" width="700" height="350">
+<img src="https://user-images.githubusercontent.com/32632834/42432500-ace2b986-82ff-11e8-86ea-e0268f95064e.png" width="700" height="350">
+<img src="https://user-images.githubusercontent.com/32632834/42432518-bc23bdaa-82ff-11e8-8d81-4d6a1b97c0d2.png" width="700" height="350">
+<img src="https://user-images.githubusercontent.com/32632834/42432526-c37b7124-82ff-11e8-9779-9ce619f18615.png" width="700" height="350">
+<img src="https://user-images.githubusercontent.com/32632834/42432535-cd60e64c-82ff-11e8-8160-ce19b81868ff.png" width="700" height="350">
+<img src="https://user-images.githubusercontent.com/32632834/42432544-d34299b6-82ff-11e8-8478-2ccd85d7fd9f.png" width="700" height="350">
+<img src="https://user-images.githubusercontent.com/32632834/42432561-e4eeab0a-82ff-11e8-895e-60fce32b45e5.png" width="700" height="350">
+
+
 
 
