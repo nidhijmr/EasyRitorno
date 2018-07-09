@@ -28,8 +28,7 @@ Spring MVC, Java, Spring Security, SAML, Active Directory, ADFS, Maven, MongoDB,
 <img src="https://user-images.githubusercontent.com/32632834/42432422-4f1ab5b0-82ff-11e8-8e8b-a4dbd0aaa696.png" width="700" height="350">
 
 ## User Interfaces
-<img src="https://user-images.githubusercontent.com/32632834/42432470-897f48f6-82ff-11e8-969e-becd7e4ca56f.png" width="700" height="350">
-<img src="https://user-images.githubusercontent.com/32632834/42432470-897f48f6-82ff-11e8-969e-becd7e4ca56f.png" width="700" height="350">
+<img src="https://user-images.githubusercontent.com/32632834/42432470-897f48f6-82ff-11e8-969e-becd7e4ca56f.png" width="750" height="350">
 <img src="https://user-images.githubusercontent.com/32632834/42432490-a278a00a-82ff-11e8-917a-1a1f33bc5197.png" width="700" height="350">
 <img src="https://user-images.githubusercontent.com/32632834/42432500-ace2b986-82ff-11e8-86ea-e0268f95064e.png" width="700" height="350">
 <img src="https://user-images.githubusercontent.com/32632834/42432518-bc23bdaa-82ff-11e8-8d81-4d6a1b97c0d2.png" width="700" height="350">
