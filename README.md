@@ -25,7 +25,7 @@ Developer Portal:
 Spring MVC, Java, Spring Security, SAML, Active Directory, ADFS, Maven, MongoDB, AngularJS, Bootstrap, Twitter API, PayPal API, Facebook API, Youtube API, BitBucket, Jenkins, Confluence, JIRA, Jenkins, LucidChart, Log4J
 
 ## Architecture Diagram
-<img src="https://user-images.githubusercontent.com/32632834/42432154-15fa0c8c-82fe-11e8-8e41-6707f1847dce.png" width="500" height="350">
+<img src="https://user-images.githubusercontent.com/32632834/42432154-15fa0c8c-82fe-11e8-8e41-6707f1847dce.png" width="600" height="350">
 
 ## User Interfaces
 ![image](https://user-images.githubusercontent.com/32632834/42432188-36eee1ec-82fe-11e8-871a-a02c8993217d.png)
